@@ -33,29 +33,29 @@ public class Oppgave2 {
 		}
 		
 		
-//		System.out.println("- Insertion Sort -");
-//		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
-//		testInsertionSort(a1, n1);
-//		testInsertionSort(a2, n2);
-//		testInsertionSort(a3, n3);
-//
-//		System.out.println("- Selection Sort -");
-//		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
-//		testSelectionSort(a1, n1);
-//		testSelectionSort(a2, n2);
-//		testSelectionSort(a3, n3);
-//		
-//		System.out.println("- Merge Sort -");
-//		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
-//		testMergeSort(a1, n1);
-//		testMergeSort(a2, n2);
-//		testMergeSort(a3, n3);
-//		
-//		System.out.println("- Quick Sort -");
-//		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
-//		testQuicksort(a1, n1);
-//		testQuicksort(a2, n2);
-//		testQuicksort(a3, n3);
+		System.out.println("- Insertion Sort -");
+		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
+		testInsertionSort(a1, n1);
+		testInsertionSort(a2, n2);
+		testInsertionSort(a3, n3);
+
+		System.out.println("- Selection Sort -");
+		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
+		testSelectionSort(a1, n1);
+		testSelectionSort(a2, n2);
+		testSelectionSort(a3, n3);
+		
+		System.out.println("- Merge Sort -");
+		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
+		testMergeSort(a1, n1);
+		testMergeSort(a2, n2);
+		testMergeSort(a3, n3);
+		
+		System.out.println("- Quick Sort -");
+		System.out.println("n	Antall målinger		Gjns Tid	Teo tid");
+		testQuicksort(a1, n1);
+		testQuicksort(a2, n2);
+		testQuicksort(a3, n3);
 
 		// b) 
 		
